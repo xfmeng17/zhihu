@@ -20,7 +20,7 @@
 配置一个sublime累的我要死，难道我还要回家把剩下的3个电脑上的sublime都配置一遍么？？难道subliem就没有共享配置？？
 ```
 
-### 知乎问题 [如何学习数据结构？](https://www.zhihu.com/question/21318658/answer/42690576)下我的回答
+### 2018-02-28 重新编辑知乎回答 [如何学习数据结构？](https://www.zhihu.com/question/21318658/answer/42690576)
 
 ### 前言
 
