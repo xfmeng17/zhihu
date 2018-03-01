@@ -28,7 +28,7 @@
 
 ****
 
-#### 正文
+### 正文
 
 我觉得入门学习算法与数据结构时应包含三个部分：
 
@@ -37,14 +37,16 @@
 * 重温
 
 
-##### 1. 选择一本合适的书
+#### 1. 选择一本合适的书
 十分推荐普林斯顿的这本橙书：[《算法 第四版》](https://algs4.cs.princeton.edu/home/)，是我认为最适合拿来入门的。在橙书中淡化了算法分析和证明，强调了实现和应用，并且通过一些有趣的习题对比显示了优秀的算法与数据结构在时间和空间上的高效。
 
 橙书是使用Java进行代码实现，在第一章前两个小章节介绍了全书可能需要使用到的一些简单的Java语法，使得我们不会花费过多精力在学习编程语言上。
 
 并且普林斯顿在[Coursera](https://www.coursera.org/)上也公开了两门对应课程：[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)和[Algorightmsm, Part2](https://www.coursera.org/learn/algorithms-part2)。依次注册开课后，认真跟住课上内容（英文授课有字幕，如果已熟稔书本内容，并事先自己翻译了课件，英文听力不好也能理解。），并**独立完成** *Exercises*，*Programming Assignmengs*和*Job Interview Questions*。
 
-这2门Coursera公开课在知乎上也盛誉很多，在此不多赘述。不收费，同时也不给电子证书，一年开课几次，可随时加入。
+这2门Coursera公开课在知乎上也盛誉很多，在此不多赘述。不收费，同时也不给电子证书，一年开课几次，可随时加入。关于书后习题的讨论，可以参考：[算法 第四版(algorithms 4th edition ) 这本书有配套的习题答案吗？](https://www.zhihu.com/question/27876056/answer/64157598)。
+
+#### 2. 编程实现和应用
 
 
 
