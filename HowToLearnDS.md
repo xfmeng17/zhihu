@@ -45,7 +45,7 @@
 
 并且普林斯顿在[Coursera](https://www.coursera.org/)上也公开了两门对应课程：[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)和[Algorightmsm, Part2](https://www.coursera.org/learn/algorithms-part2)。依次注册待开课后，**认真跟住**课上内容（英文授课有字幕，如果已熟稔书本内容，并事先自己翻译了课件，英文听力不好也能理解。），并**独立完成** *Exercises（选择题）*，*Programming Assignmengs（编程作业）*和*Job Interview Questions（面试题）*。
 
-这2门Coursera公开课在知乎上也盛誉很多，在此不多赘述。不收费，同时也不给电子证书，一年开课几次，可随时加入。关于书后习题的讨论，可以参考：[算法 第四版(algorithms 4th edition ) 这本书有配套的习题答案吗？](https://www.zhihu.com/question/27876056/answer/64157598)。
+这2门Coursera公开课在知乎上也盛誉很多，在此不多赘述。不收费，同时也不给电子证书，一年开课几次，可随时加入。
 
 ### 2. 编程实现和应用 ###
 
@@ -57,7 +57,7 @@
 
 #### 可视化帮助 ####
 
-同时，除了底层coding，最好也从顶层宏观的去观察一种数据结构的各种操作。这里推荐一个动态可视化网站[Visualgo](https://visualgo.net/en)。比如进入Binary Heap（二叉堆），插入一个77，就可以看到整个堆的变化过程。可以通过左下角的按钮调慢演示过程。正刚刚在书本上学完二叉堆原理，可能也自己动手code实现了过程，那么再在网站上演示一下元素“初始化”，“增删改查”，“排序”等过程，会带来一些更直观的印象。
+同时，除了底层coding，最好也从顶层宏观的去观察一种数据结构的各种操作。这里推荐一个动态可视化网站[Visualgo](https://visualgo.net/en)。比如进入Binary Heap（二叉堆），插入一个77，就可以看到整个堆的变化过程。可以通过左下角的按钮调慢演示过程。正刚刚在书本上学完二叉堆原理，可能也自己动手code实现了过程，那么再在网站上演示一下元素的各种操作过程，会带来一些更直观的印象。
 
 ![Visualgo: Binary Heap](https://github.com/xfmeng17/zhihu/blob/master/HowToLearnDS/visualgo.png?raw=true)
 
@@ -70,21 +70,20 @@
 * 在Leetcode等OJ上解决相关数据结构的题目。
 * 网上一些开源项目等。
 
-以上这些都是能够较快带来成就感的，算法与数据结构学习不算轻松，能有一些及时的正反馈最好了。
+以上这些实践均能较快产生成就感。算法与数据结构学习不算轻松，能有一些及时的正反馈最好。
 
 ### 3. 重温 ###
 
 因为算法与数据结构所涵盖的知识较多，所以一本书里的内容可能都需要分几个阶段去学习，难免会遗忘之前的内容。我建议敏捷学习，尽量快的往后学习。如果一个知识点实在不懂，可以存疑，“不求甚解”，很多时候经过后面的学习，前面的一些内容就自然明了。
 
 
-除了基本的复习，还需要其他书籍进行一些补充和升级。推荐[《算法导论》](https://mitpress.mit.edu/books/introduction-algorithms)，除显著加强算法分析的能力外，如摊还分析，动态规划等章节是对《算法 第四版》较好的补充。其网上开放课程，中文有[网易公开课](http://open.163.com/special/opencourse/algorithms.html)，英文有[Coursera: Algorithms Specialization](https://www.coursera.org/specializations/algorithms)（可不要证书，免费旁听。）。
+除了基本的复习，还需要其他书籍进行一些补充和升级。推荐[《算法导论》](https://mitpress.mit.edu/books/introduction-algorithms)。除显著加强算法分析的能力外，一些算法章节，如摊还分析，动态规划等是对《算法 第四版》较好的补充。其网上开放课程，中文有[网易公开课](http://open.163.com/special/opencourse/algorithms.html)，英文有[Coursera: Algorithms Specialization](https://www.coursera.org/specializations/algorithms)（可不要证书，免费旁听。）。
 
-总之，要 ** 多做题多总结 ** （OJ上的编程题，书后思考题，大公司的面试题等等）！
+总之，要 **多做题多总结** （OJ上的编程题，书后思考题，大公司的面试题等等）！
 
 ## 补充 ##
 
 1. 因为我第一次编写这个答案时正看完[《数据结构 in C》](https://book.douban.com/subject/1139426/)，就在第一版回答中推荐了这本书。然而作为入门（个人意见）不如橙书详实，但它用C语言实现ADT的方法值得借鉴。
-2. 暂时没有。
 
 ## 集中回复 ##
 
@@ -104,4 +103,8 @@
 
 >  __4. Coursera需要翻墙？PC上打不开。__
 
->> 不需要翻墙，可能是DNS污染的问题，参考[知乎回答](https://www.zhihu.com/question/29433255)。如有解决APP上打不开的方法，请麻烦私信告知。
+>> 不需要翻墙，可能是DNS污染的问题，参考[知乎回答](https://www.zhihu.com/question/29433255)。
+
+> __5. 《算法 第四版》课后题好多，又没有参考答案。__
+
+>> 关于书后习题的讨论，可以参考：[算法 第四版(algorithms 4th edition ) 这本书有配套的习题答案吗？](https://www.zhihu.com/question/27876056/answer/64157598)。
