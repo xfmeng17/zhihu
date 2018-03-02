@@ -103,5 +103,5 @@
 
 
 > __5. 《算法 第四版》课后题好多，又没有参考答案。__
->> 关于书后习题的讨论，可以参考：[算法 第四版(algorithms 4th edition ) 这本书有配套的习题答案吗？](https://www.zhihu.com/question/27876056/answer/64157598)。
+>> 关于书后习题的讨论，参考[算法 第四版(algorithms 4th edition ) 这本书有配套的习题答案吗？](https://www.zhihu.com/question/27876056/answer/64157598)。
 
