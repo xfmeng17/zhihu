@@ -44,33 +44,33 @@
 
 十分推荐普林斯顿的这本橙书：[《算法 第四版》](https://algs4.cs.princeton.edu/home/)，是我认为最适合拿来入门的。在橙书中淡化了算法分析和证明，强调了实现和应用，并且通过一些有趣的习题对比显示了优秀的算法与数据结构在时间和空间上的高效。
 
-橙书是使用Java进行代码实现，在第一章前两个小章节介绍了全书可能需要使用到的一些简单的Java语法，使得我们不会将过多的精力花费在编程语言的学习上。
+橙书是使用 Java 进行代码实现，在第一章前两个小章节介绍了全书可能需要使用到的一些简单的 Java 语法，使得我们不会将过多的精力花费在编程语言的学习上。
 
-并且普林斯顿在[Coursera](https://www.coursera.org/)上也公开了两门对应课程：[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)和[Algorightmsm, Part2](https://www.coursera.org/learn/algorithms-part2)。依次注册待开课后，**认真跟住**课上内容（英文授课有字幕，如果已熟稔书本内容，并事先自己翻译了课件，英文听力不好也能理解。），并**独立完成** *Exercises（选择题）*，*Programming Assignmengs（编程作业）*和*Job Interview Questions（面试题）*。
+并且普林斯顿在 [Coursera](https://www.coursera.org/) 上也公开了两门对应课程： [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) 和 [Algorightmsm, Part2](https://www.coursera.org/learn/algorithms-part2) 。依次注册待开课后，**认真跟住**课上内容（英文授课有字幕，如果已熟稔书本内容，并事先自己翻译了课件，英文听力不好也能理解），并**独立完成**   *Exercises （选择题）*， *Programming Assignmengs （编程作业）* 和  *Job Interview Questions （面试题）*。
 
-这2门Coursera公开课在知乎上也盛誉很多，在此不多赘述。不收费，同时也不给电子证书，一年开课几次，可随时加入。
+这2门 Coursera 公开课在知乎上也盛誉很多，在此不多赘述。不收费，同时也不给电子证书，一年开课几次，可随时加入。
 
 ### 2. 编程实现和应用 ###
 
-理解一个数据结构与编程实现其完整功能是完全不同的挑战。自己动手亲自实现一些基础数据结构（如排序，集合，图和字符串处理等，然而平衡树们就显得过难）的简化版API能够极大的提升对数据结构内部细节的理解。
+理解一个数据结构与编程实现其完整功能是完全不同的挑战。自己动手亲自实现一些基础数据结构（如排序，集合，图和字符串处理）的简化版API能够极大的提升对数据结构内部细节的理解。
 
-#### 编写API ####
+#### 编写 API  ####
 
-我曾使用的一个较笨的方法是尝试默写书本中的实现。另一种较有成就感的方法是在如[Leetcode](https://leetcode.com)等OJ([Online Judge](https://baike.baidu.com/item/Online%20Judge/2397914?fr=aladdin))上，选择一些简单的但会使用到上述基础数据结构的题目，自己实现那些需要使用到的数据结构，而不使用语言本身提供的，如c++的STL或Java的util。
+我曾使用的一个较笨的方法是尝试默写书本中的实现。另一种较有成就感的方法是在如 [Leetcode](https://leetcode.com) 等 OJ ([Online Judge](https://baike.baidu.com/item/Online%20Judge/2397914?fr=aladdin)) 上，选择一些简单的但会使用到上述基础数据结构的题目，自己实现那些需要使用到的数据结构，而不使用语言本身提供的，如 c++ 的 STL 或 Java 的 util 。
 
 #### 可视化帮助 ####
 
-同时，除了底层coding，最好也从顶层宏观的去观察一种数据结构的各种操作。这里推荐一个动态可视化网站[Visualgo](https://visualgo.net/en)。比如进入Binary Heap（二叉堆），插入一个77，就可以看到整个堆的变化过程。可以通过左下角的按钮调慢演示过程。正刚刚在书本上学完二叉堆原理，可能也自己动手code实现了过程，那么再在网站上演示一下元素的各种操作过程，会带来一些更直观的印象。
+同时，除了底层 coding ，最好也从顶层宏观的去观察一种数据结构的各种操作。这里推荐一个动态可视化网站 [Visualgo](https://visualgo.net/en) 。比如进入 Binary Heap （二叉堆），插入一个77，就可以看到整个堆的变化过程。可以通过左下角的按钮调慢演示过程。正刚刚在书本上学完二叉堆原理，可能也自己动手code实现了过程，那么再在网站上演示一下元素的各种操作过程，会带来一些更直观的印象。
 
 ![Visualgo: Binary Heap](https://github.com/xfmeng17/zhihu/blob/master/HowToLearnDS/visualgo.png?raw=true)
 
-（在Visualgo上进行二叉堆操作的演示）
+（在 Visualgo 上进行二叉堆操作的演示）
 
 #### 尝试应用 ####
 
-* 认真且独立完成Coursera上《算法 第四版》的公开课作业。
+* 认真且独立完成 Coursera 上《算法 第四版》的公开课作业。
 * 对书本后的编程习题进行实现。
-* 在Leetcode等OJ上解决相关数据结构的题目。
+* 在 Leetcode 等 OJ 上解决相关数据结构的题目。
 * 网上一些开源项目等。
 
 以上这些实践均能较快产生成就感。算法与数据结构学习不算轻松，能有一些及时的正反馈最好。
@@ -80,13 +80,13 @@
 因为算法与数据结构所涵盖的知识较多，所以一本书里的内容可能都需要分几个阶段去学习，难免会遗忘之前的内容。我建议敏捷学习，尽量快的往后学习。如果一个知识点实在不懂，可以存疑，“不求甚解”，很多时候经过后面的学习，前面的一些内容就自然明了。然后反复学习。
 
 
-除了基本的复习，还需要其他书籍进行一些补充和升级。推荐[《算法导论》](https://mitpress.mit.edu/books/introduction-algorithms)。除显著加强算法分析的能力外，一些算法章节，如摊还分析，动态规划等是对《算法 第四版》较好的补充。其网上开放课程，中文有[网易公开课](http://open.163.com/special/opencourse/algorithms.html)，英文有[Coursera: Algorithms Specialization](https://www.coursera.org/specializations/algorithms)（可不要证书免费旁听）。
+除了基本的复习，还需要其他书籍进行一些补充和升级。推荐[《算法导论》](https://mitpress.mit.edu/books/introduction-algorithms)。除显著加强算法分析的能力外，一些算法章节，如摊还分析，动态规划等是对《算法 第四版》较好的补充。其网上开放课程，中文有[网易公开课](http://open.163.com/special/opencourse/algorithms.html)，英文有 [Coursera: Algorithms Specialization](https://www.coursera.org/specializations/algorithms) （可不要证书免费旁听）。
 
-总之，要 **多做题多总结** （OJ上的编程题，书后思考题，大公司的面试题等等）！
+总之，要 **多做题善总结！** 可以是 Online Judge 上的编程题，书后思考题，手上的编程项目或者面试题等等。
 
 ## 补充 ##
 
-1. 因为我第一次编写这个答案时正看完[《数据结构与算法分析 - C语言描述》](https://book.douban.com/subject/1139426/)，就在第一版回答中推荐了这本书。然而作为入门（个人意见）不如橙书详实，但它用C语言实现ADT（抽象数据类型）的方法值得借鉴。
+1. 因为我第一次编写这个答案时正看完[《数据结构与算法分析 - C 语言描述》](https://book.douban.com/subject/1139426/)，就在第一版回答中推荐了这本书。然而作为入门（个人意见）不如橙书详实，但它用 C 语言实现 ADT （抽象数据类型）的方法值得借鉴。
 
 ## 集中回复 ##
 
@@ -95,20 +95,20 @@
 >> 确实。因时间久远我已经不记得原问题是什么，当初为什么在这个问题下写这个答案，归为某个被遗忘的历史原因吧。
 
 
->  __2. 没用过Java/C/C++，要先学编程语言__
+>  __2. 没用过 Java/C/C++ ，要先学编程语言__
 >> 没必要。绝大部分书会使用某一特定语言进行代码实现，但都只用到该编程语言最基本的语法，凡有编程基础，都不需先从头学这门语言。
 
 
->  __3. 英文不好，听不懂Coursera上的公开课。__
+>  __3. 英文不好，听不懂 Coursera 上的公开课。__
 >> 可以先阅读中文书学习知识点，预先翻译网课课件，慢放视频，实在不行可暂停播放手动翻译字幕。刚开始这么做确实很吃力，但越往后越轻松，因为陌生的词汇就那么多，会一个少一个。
 
 
->  __4. Coursera需要翻墙？PC上打不开。__
->> PC上访问不需要翻墙，可能是DNS污染的问题，参考[知乎回答](https://www.zhihu.com/question/29433255)。
+>  __4.  Coursera 需要翻墙？ PC 上打不开。__
+>>  PC 上访问不需要翻墙，可能是 DNS 污染的问题，参考[知乎回答](https://www.zhihu.com/question/29433255)。
 
 
 > __5. 《算法 第四版》课后题好多，又没有参考答案。__
->> 关于书后习题的讨论，参考[算法 第四版(algorithms 4th edition ) 这本书有配套的习题答案吗？](https://www.zhihu.com/question/27876056/answer/64157598)。
+>> 关于书后习题的讨论，参考[知乎回答](https://www.zhihu.com/question/27876056/answer/64157598)。
 
 
 <!--
