@@ -17,6 +17,6 @@
 
 [1]: https://algs4.cs.princeton.edu/home/
 [2]: https://algs4.cs.princeton.edu/31elementary/
-[3]: https://github.com/xfmeng17/zhihu/blob/master/SolutionForAlgs4Ex/ex.png?raw=true
+[3]: https://github.com/xfmeng17/zhihu/blob/master/reference-for-algs4-exercises/ex.png?raw=true
 [4]: https://introcs.cs.princeton.edu/java/assignments/
 [5]: https://github.com/aistrate/AlgorithmsSedgewick
