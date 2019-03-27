@@ -61,7 +61,7 @@
 
 同时，除了底层 coding，最好也从顶层宏观的去观察一种数据结构的各种操作。这里推荐一个动态可视化网站 [Visualgo](https://visualgo.net/en)。比如进入 Binary Heap（二叉堆），插入一个77，就可以看到整个堆的变化过程。可以通过左下角的按钮调慢演示过程。正刚刚在书本上学完二叉堆原理，可能也自己动手 code 实现了过程，那么再在网站上演示一下元素的各种操作过程，会带来一些更直观的印象。
 
-![Visualgo: Binary Heap](https://github.com/xfmeng17/zhihu/blob/master/HowToLearnDS/visualgo.png?raw=true)
+![Visualgo: Binary Heap](https://github.com/xfmeng17/zhihu/blob/master/how-to-learn-data-structue/visualgo.png?raw=true)
 （在 Visualgo 上进行二叉堆操作的演示）
 
  **尝试应用**
